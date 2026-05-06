@@ -248,18 +248,6 @@ Some of the engineering problems I focus on include:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgutierres049&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgutierres049&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## What I Am Looking For
 
 I am interested in opportunities related to:
