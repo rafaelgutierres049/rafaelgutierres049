@@ -91,15 +91,14 @@ Machine Learning project for predicting online purchase intention using feature 
 
 ---
 
-## Currently Studying
+## Current Focus
 
-- System design
-- Data structures and algorithms
-- Distributed systems fundamentals
-- LLM evaluation and guardrails
-- Production-grade RAG architectures
-- Cloud-native AI systems with Azure and AWS
-
+- Production-grade LLM applications
+- RAG and agentic AI systems
+- Backend architecture with Python and FastAPI
+- Cloud-native AI solutions with Azure and AWS
+- Machine Learning pipelines and model evaluation
+- System design for scalable AI applications
 ---
 
 ## Contact
