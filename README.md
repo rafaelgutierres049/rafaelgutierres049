@@ -2,9 +2,9 @@
 
 # Rafael Gutierres
 
-### AI-focused Backend Engineer | Python · FastAPI · LLMs · RAG · Azure · Cloud-Native APIs
+### AI-focused Backend Engineer | Python · FastAPI · LLMs · RAG · Machine Learning · Azure
 
-I build production-grade AI systems, backend APIs, automation workflows, and intelligent applications using Python, FastAPI, Azure, LLMs, RAG architectures, SQL/NoSQL databases, and modern cloud-native practices.
+I build production-grade AI systems, backend APIs, automation workflows, RAG applications, and data-driven solutions using Python, FastAPI, Azure, LLMs, Machine Learning, SQL/NoSQL databases, and cloud-native practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Gutierres-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-gutierres-a314221b5)
 [![GitHub](https://img.shields.io/badge/GitHub-rafaelgutierres049-black?style=for-the-badge&logo=github)](https://github.com/rafaelgutierres049)
@@ -16,18 +16,21 @@ I build production-grade AI systems, backend APIs, automation workflows, and int
 
 ## About Me
 
-I am a Computer Engineer focused on Artificial Intelligence, backend engineering, and cloud-based intelligent systems.
+I am a Computer Engineer focused on Artificial Intelligence, backend engineering, data science, and cloud-based intelligent systems.
 
-My main experience is building systems that combine **LLMs, APIs, automation workflows, data pipelines, and enterprise integrations**. I enjoy designing reliable backend architectures, orchestrating AI workflows, and turning complex business processes into scalable software solutions.
+My work combines **LLMs, Machine Learning, APIs, automation workflows, data pipelines, and enterprise integrations**. I enjoy designing reliable backend architectures, orchestrating AI workflows, and turning complex business processes into scalable software solutions.
+
+I am also pursuing an **MBA in Data Science and Analytics**, strengthening my foundation in Machine Learning, statistics, data analysis, model evaluation, and applied AI systems.
 
 I currently focus on:
 
 - Production-grade LLM applications
 - Backend architecture with Python and FastAPI
 - RAG and agentic AI workflows
+- Machine Learning and data-driven applications
 - Azure AI and cloud-native systems
 - API design, automation, and system integration
-- Data-driven applications with AI capabilities
+- System design and scalable software architecture
 
 ---
 
@@ -49,6 +52,15 @@ I currently focus on:
 ![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple?style=for-the-badge)
 
+### Machine Learning & Data Science
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+
 ### Cloud & DevOps
 
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -63,7 +75,6 @@ I currently focus on:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Frontend & Apps
 
@@ -119,6 +130,28 @@ Python · FastAPI · LangGraph · LangChain · Docker · PostgreSQL · Alembic �
 
 ---
 
+### Machine Learning Purchase Prediction
+
+**Repository:** [Online_Shoppers_Intention](https://github.com/rafaelgutierres049/Online_Shoppers_Intention)
+
+A Machine Learning project focused on predicting online purchase intention using tabular data, feature engineering, model training, class imbalance handling, and classification metrics.
+
+**Key capabilities:**
+
+- Exploratory data analysis
+- Data preprocessing and feature engineering
+- One-hot encoding and feature scaling
+- Binary classification
+- Handling class imbalance
+- Cross-validation
+- PyTorch-based logistic regression
+- Evaluation with precision, recall, F1-score, and accuracy
+
+**Tech stack:**  
+Python · PyTorch · Pandas · NumPy · scikit-learn · Machine Learning · Classification
+
+---
+
 ### AI Financial Report Generator
 
 **Repository:** [Relatorio-IAGen](https://github.com/rafaelgutierres049/Relatorio-IAGen)
@@ -159,28 +192,24 @@ A multi-agent data analysis assistant that interprets natural-language requests 
 - Visualization generation
 
 **Tech stack:**  
-Python · LangChain · Streamlit · Pandas · Matplotlib · Multi-Agent Systems
+Python · LangChain · Streamlit · Pandas · Matplotlib · Multi-Agent Systems · Data Analysis
 
 ---
 
-### Online Shoppers Purchase Prediction
+## Academic Background
 
-**Repository:** [Online_Shoppers_Intention](https://github.com/rafaelgutierres049/Online_Shoppers_Intention)
+- Computer Engineering
+- MBA in Data Science and Analytics — in progress
+- Microsoft Certified: Azure AI Engineer Associate — AI-102
 
-A machine learning project focused on predicting online purchase intention using classical ML and deep learning techniques.
+My academic and professional focus is centered on the intersection of:
 
-**Key capabilities:**
-
-- Data preprocessing and feature engineering
-- One-hot encoding and standardization
-- Binary classification
-- Handling class imbalance
-- Cross-validation
-- PyTorch-based logistic regression
-- Evaluation with precision, recall, F1-score, and accuracy
-
-**Tech stack:**  
-Python · PyTorch · Pandas · scikit-learn · Machine Learning · Classification
+- Artificial Intelligence
+- Machine Learning
+- Backend Engineering
+- Cloud Computing
+- Data Science
+- Automation and intelligent systems
 
 ---
 
@@ -195,9 +224,11 @@ Some of the engineering problems I focus on include:
 - Creating RAG pipelines with retrieval, ranking, and grounded generation
 - Integrating enterprise systems with AI workflows
 - Designing async processing and automation pipelines
+- Building Machine Learning pipelines for classification and prediction tasks
+- Evaluating models with appropriate metrics such as precision, recall, F1-score, MAE, RMSE, and R²
 - Structuring clean backend projects with routers, services, repositories, and schemas
 - Implementing observability with structured logs and traceable workflows
-- Working with SQL and NoSQL databases for operational and conversational data
+- Working with SQL and NoSQL databases for operational, analytical, and conversational data
 - Improving reliability, validation, and maintainability in AI-powered systems
 
 ---
@@ -206,18 +237,14 @@ Some of the engineering problems I focus on include:
 
 - Advanced system design
 - Distributed systems fundamentals
+- Data structures and algorithms for technical interviews
+- Machine Learning model evaluation
+- Feature engineering and ML pipelines
 - AI agents and multi-agent architectures
 - LLM evaluation and guardrails
 - Cloud-native AI systems with Azure and AWS
-- Data structures and algorithms for technical interviews
 - Production-grade RAG architectures
 - MLOps and AI application monitoring
-
----
-
-## Certifications
-
-- Microsoft Certified: Azure AI Engineer Associate — AI-102
 
 ---
 
@@ -254,6 +281,7 @@ Especially in teams working with:
 - LLM applications
 - RAG systems
 - Agentic AI
+- Machine Learning systems
 - Backend APIs
 - Data-driven systems
 
@@ -268,6 +296,6 @@ Especially in teams working with:
 
 <div align="center">
 
-### Building intelligent systems with strong backend foundations.
+### Building intelligent systems with strong backend, data, and machine learning foundations.
 
 </div>
